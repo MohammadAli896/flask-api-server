@@ -1,6 +1,6 @@
 # Flask API
 
-Wrote a flutter program in dart that would generate a list of wordpairs from an array selection. It would allow users to save the wordpair and also allow a user to go to a second screen to view the definition of the words.
+Wrote a flask server using python that would read data from a csv file and use GET, POST, PUT, and DELETE APIs to fetch and display data or manipulate data from the csv file.
 
 # View screenshots and implementation
 
